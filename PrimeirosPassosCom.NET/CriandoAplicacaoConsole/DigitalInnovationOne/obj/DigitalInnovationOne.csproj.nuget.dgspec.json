@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Projetos\\Git\\GitHub\\DIO\\CriandoAplicacaoConsole\\DigitalInnovationOne\\DigitalInnovationOne.csproj": {}
+    "E:\\Projetos\\Git\\GitHub\\DIO\\PrimeirosPassosCom.NET\\CriandoAplicacaoConsole\\DigitalInnovationOne\\DigitalInnovationOne.csproj": {}
   },
   "projects": {
-    "E:\\Projetos\\Git\\GitHub\\DIO\\CriandoAplicacaoConsole\\DigitalInnovationOne\\DigitalInnovationOne.csproj": {
+    "E:\\Projetos\\Git\\GitHub\\DIO\\PrimeirosPassosCom.NET\\CriandoAplicacaoConsole\\DigitalInnovationOne\\DigitalInnovationOne.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Projetos\\Git\\GitHub\\DIO\\CriandoAplicacaoConsole\\DigitalInnovationOne\\DigitalInnovationOne.csproj",
+        "projectUniqueName": "E:\\Projetos\\Git\\GitHub\\DIO\\PrimeirosPassosCom.NET\\CriandoAplicacaoConsole\\DigitalInnovationOne\\DigitalInnovationOne.csproj",
         "projectName": "DigitalInnovationOne",
-        "projectPath": "E:\\Projetos\\Git\\GitHub\\DIO\\CriandoAplicacaoConsole\\DigitalInnovationOne\\DigitalInnovationOne.csproj",
+        "projectPath": "E:\\Projetos\\Git\\GitHub\\DIO\\PrimeirosPassosCom.NET\\CriandoAplicacaoConsole\\DigitalInnovationOne\\DigitalInnovationOne.csproj",
         "packagesPath": "C:\\Users\\anaom\\.nuget\\packages\\",
-        "outputPath": "E:\\Projetos\\Git\\GitHub\\DIO\\CriandoAplicacaoConsole\\DigitalInnovationOne\\obj\\",
+        "outputPath": "E:\\Projetos\\Git\\GitHub\\DIO\\PrimeirosPassosCom.NET\\CriandoAplicacaoConsole\\DigitalInnovationOne\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\anaom\\AppData\\Roaming\\NuGet\\NuGet.Config",

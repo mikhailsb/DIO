@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Projetos\\Git\\GitHub\\DIO\\CriandoAplicacaoConsole\\DigitalInnovationOne\\DigitalInnovationOne.csproj",
-      "projectName": "DigitalInnovationOne",
-      "projectPath": "E:\\Projetos\\Git\\GitHub\\DIO\\CriandoAplicacaoConsole\\DigitalInnovationOne\\DigitalInnovationOne.csproj",
+      "projectUniqueName": "E:\\Projetos\\Git\\GitHub\\DIO\\PrimeirosPassosCom.NET\\CriandoAplicacaoConsole\\Revisao\\Revisao.csproj",
+      "projectName": "Revisao",
+      "projectPath": "E:\\Projetos\\Git\\GitHub\\DIO\\PrimeirosPassosCom.NET\\CriandoAplicacaoConsole\\Revisao\\Revisao.csproj",
       "packagesPath": "C:\\Users\\anaom\\.nuget\\packages\\",
-      "outputPath": "E:\\Projetos\\Git\\GitHub\\DIO\\CriandoAplicacaoConsole\\DigitalInnovationOne\\obj\\",
+      "outputPath": "E:\\Projetos\\Git\\GitHub\\DIO\\PrimeirosPassosCom.NET\\CriandoAplicacaoConsole\\Revisao\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\anaom\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -59,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.410\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.411\\RuntimeIdentifierGraph.json"
       }
     }
   }
