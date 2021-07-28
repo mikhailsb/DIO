@@ -1,0 +1,7 @@
+E:\Projetos\Git\GitHub\DIO\IniciandoAProgramarEmC-Desafio\IniciandoAProgramarEmC-Desafio\Desafio_002\bin\Debug\Desafio_002.exe.config
+E:\Projetos\Git\GitHub\DIO\IniciandoAProgramarEmC-Desafio\IniciandoAProgramarEmC-Desafio\Desafio_002\bin\Debug\Desafio_002.exe
+E:\Projetos\Git\GitHub\DIO\IniciandoAProgramarEmC-Desafio\IniciandoAProgramarEmC-Desafio\Desafio_002\bin\Debug\Desafio_002.pdb
+E:\Projetos\Git\GitHub\DIO\IniciandoAProgramarEmC-Desafio\IniciandoAProgramarEmC-Desafio\Desafio_002\obj\Debug\Desafio_002.csprojAssemblyReference.cache
+E:\Projetos\Git\GitHub\DIO\IniciandoAProgramarEmC-Desafio\IniciandoAProgramarEmC-Desafio\Desafio_002\obj\Debug\Desafio_002.csproj.CoreCompileInputs.cache
+E:\Projetos\Git\GitHub\DIO\IniciandoAProgramarEmC-Desafio\IniciandoAProgramarEmC-Desafio\Desafio_002\obj\Debug\Desafio_002.exe
+E:\Projetos\Git\GitHub\DIO\IniciandoAProgramarEmC-Desafio\IniciandoAProgramarEmC-Desafio\Desafio_002\obj\Debug\Desafio_002.pdb
