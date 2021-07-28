@@ -11,13 +11,9 @@ Para cada caso mostre o resultado da divisão com um dígito após o ponto decim
 Exemplos de Entrada | Exemplos de Saída
 --------------------|-------------------
 30                  |
---------------------|-------------------
 3 -2                | -1.5
---------------------|-------------------
 8 0                 |"divisao impossivel"
---------------------|-------------------
 0 8                 | 0.0
---------------------|-------------------
 
 # Desafio 02
 
